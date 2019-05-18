@@ -1,4 +1,7 @@
 # game_demo
+This game is created with the tutorial of [https://github.com/japalekhin]
+
+[https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1]
 
 A new Flutter application.
 
